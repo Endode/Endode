@@ -1,4 +1,4 @@
-### Hallo
+### Hello, Minecraft is my favorite game. I can code in a variety of languages.
 
 <!--
 **EnderTravis9/EnderTravis9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
