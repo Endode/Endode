@@ -1,4 +1,10 @@
 ### Hello, Minecraft is my favorite game. I can code in a variety of languages.
+ - Java
+ - C/C++
+ - C#
+ - Python
+ - I know a little Assembly
+ - I know a little Basic
 
 <!--
 **EnderTravis9/EnderTravis9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
