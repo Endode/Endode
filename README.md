@@ -3,7 +3,7 @@
  - C/C++
  - C#
  - Python
- - Learning Rust
+ - Might learn Rust
  - I know a little Assembly
  - I know a little Basic
 
