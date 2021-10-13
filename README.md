@@ -3,10 +3,9 @@
  - C/C++
  - C#
  - Python
- - Might learn Rust
- - I know a little Assembly
- - I know a little Basic
- - Gonna learn to use VIM
+ - Learning Rust
+ 
+ I currently use GitLab instead of GitHub https://gitlab.com/endode
 
 <!--
 **EnderTravis9/EnderTravis9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
