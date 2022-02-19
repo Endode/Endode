@@ -1,23 +1,10 @@
-### Hello, Minecraft is my favorite game. I can code in a variety of languages.
+### Hello I can code in a variety of languages.
  - Java
  - C/C++
  - C#
  - Python
  - Learning Rust
+
+[I don't really update this, so go look at my page on my website instead](https://vekwrite.gitlab.io/endode/endode.html)
  
  I currently use GitLab instead of GitHub https://gitlab.com/endode
-
-<!--
-**EnderTravis9/EnderTravis9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
