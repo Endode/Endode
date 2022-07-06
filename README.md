@@ -3,6 +3,7 @@
  - C/C++
  - C#
  - Python
+ - Haxe
  - Learning Rust
 
 [I don't really update this, so go look at my page on my website instead](https://vekwrite.gitlab.io/endode/endode.html)
